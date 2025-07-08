@@ -1,12 +1,54 @@
-# React + Vite
+# 🛡️ Comment Vault
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Comment Vault** is a responsive and interactive React-based application that displays a list of user comments with rich features like:
 
-Currently, two official plugins are available:
+✅ Search  
+✅ Sorting (Post ID, Name, Email)  
+✅ Pagination  
+✅ Filter & state persistence across page refreshes
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This app fetches data from a public API (`https://jsonplaceholder.typicode.com/comments`) and ensures that the user's interactions (search, sort, page, page size) are preserved even after reloading the page using `localStorage`.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Features
+
+- 🔍 Live Search (by name, email, and comment body)
+- 🔃 Sort by Post ID, Name, or Email (asc/desc toggle)
+- 📄 Pagination with dynamic page size
+- 💾 Persisted filters, sort state, and pagination via `localStorage`
+- 📱 Fully responsive UI (mobile-first)
+- ✅ Clean codebase using functional components and hooks
+
+---
+
+## 📦 Tech Stack
+
+- React (with Hooks)
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- LocalStorage (for persistence)
+- JSONPlaceholder API
+
+---
+
+## 📸 Preview
+
+[Add screenshots here if you have any]
+
+---
+
+## 🧠 Future Improvements
+
+- Dark mode support 🌙  
+- Export table as CSV  
+- Backend API integration  
+- Role-based access control  
+
+---
+
+## 📂 Setup Instructions
+
+1. Clone the repo  
+   ```bash
+   git clone https://github.com/your-username/comment-vault.git
