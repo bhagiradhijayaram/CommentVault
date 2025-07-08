@@ -34,6 +34,7 @@ This app fetches data from a public API (`https://jsonplaceholder.typicode.com/c
 ## Navigation
 
 **Home Page**
+
 Click on the website logo in the header to return to the Home Page. 
 
 **Profile Page**
