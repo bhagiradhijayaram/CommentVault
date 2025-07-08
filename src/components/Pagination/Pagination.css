@@ -1,0 +1,40 @@
+.pagination-wrapper {
+  width: 350px;
+  margin-left: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+
+.pagination-wrapper p {
+  font-size: 15px;
+}
+
+.pagination-buttons {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  position: relative;
+  top: 4px;
+}
+
+.pagination-wrapper button {
+  font-size: 14px;
+  border: none;
+  background-color: transparent;
+}
+
+.left-button,
+.right-button {
+  background-color: transparent;
+}
+
+.active-page {
+  font-weight: bold;
+  color: #333;
+  border-radius: 4px;
+  background-color: white;
+  padding: 5px 8px;
+  border: 2px solid gray !important;
+}

@@ -1,0 +1,47 @@
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #161179;
+}
+.navigation-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  max-width: 1350px;
+  padding: 10px;
+}
+.website-logo-wrapper {
+  display: flex;
+  align-items: center;
+}
+.website-logo-wrapper span {
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #fff;
+  position: relative;
+  right: 4px;
+  bottom: 2px;
+}
+.website-logo {
+  width: 40px;
+}
+.user-profile-container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  color: #fff;
+}
+.profile-wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #fff;
+  color: #000000;
+}
