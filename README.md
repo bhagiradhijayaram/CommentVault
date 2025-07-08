@@ -32,6 +32,10 @@ This app fetches data from a public API (`https://jsonplaceholder.typicode.com/c
 
 ---
 
+## Live Preview
+
+https://commentvault.netlify.app/
+
 ## 📸 Preview
 
 ![screencapture-localhost-5173-2025-07-08-11_01_41](https://github.com/user-attachments/assets/fe8d09e2-edbe-485a-b242-d2297d1a2e5f)
