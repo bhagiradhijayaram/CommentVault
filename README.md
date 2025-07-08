@@ -31,10 +31,24 @@ This app fetches data from a public API (`https://jsonplaceholder.typicode.com/c
 - JSONPlaceholder API
 
 ---
+## Navigation
+
+Profile Page
+Click on the profile logo in the header to navigate to the Profile Page.
+
+Comments Dashboard
+From the Profile Page, click the left arrow icon to navigate to the Comments Dashboard.
+
+Home Page
+Click on the website logo in the header to return to the Home Page. 
+
+---
 
 ## Live Preview
 
 Website: https://commentvault.netlify.app/
+
+--- 
 
 ## 📸 Preview
 
