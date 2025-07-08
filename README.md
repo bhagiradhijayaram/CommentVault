@@ -34,7 +34,7 @@ This app fetches data from a public API (`https://jsonplaceholder.typicode.com/c
 
 ## Live Preview
 
-https://commentvault.netlify.app/
+Website: https://commentvault.netlify.app/
 
 ## 📸 Preview
 
