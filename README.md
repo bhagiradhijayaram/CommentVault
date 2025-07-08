@@ -51,4 +51,4 @@ This app fetches data from a public API (`https://jsonplaceholder.typicode.com/c
 
 1. Clone the repo  
    ```bash
-   git clone https://github.com/your-username/comment-vault.git
+   https://github.com/bhagiradhijayaram/CommentVault.git
