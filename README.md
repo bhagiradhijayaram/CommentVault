@@ -40,7 +40,8 @@ This app fetches data from a public API (`https://jsonplaceholder.typicode.com/c
 
 ![screencapture-localhost-5173-profile-2025-07-08-11_01_20](https://github.com/user-attachments/assets/849f7e70-e00d-414e-9a5f-f35a1e50d172)
 
-![Uploading screencapture-commentvault-netlify-app-dashboard-2025-07-08-13_46_37.png…]()
+![screencapture-commentvault-netlify-app-dashboard-2025-07-08-13_46_37](https://github.com/user-attachments/assets/b0e6149c-3880-4401-a49c-3b49f32a37d8)
+
 
 ---
 
